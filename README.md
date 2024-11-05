@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Frendy Lee and I'm a Full Stack Engineer, from Indonesia</h2>
 
+Visit my other account: https://github.com/frendy-lee
+
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/8wgily.jpg"  />
